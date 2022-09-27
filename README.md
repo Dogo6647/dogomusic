@@ -1,5 +1,5 @@
 # dogomusic
-##DogoMusic's downloads repository.
-MIDIs - Soundfonts - Beepbox Source Files
+## DogoMusic's downloads repository.
+## MIDIs - Soundfonts - Beepbox Source Files
 
 Have fun!
